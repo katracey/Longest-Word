@@ -1,0 +1,18 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\bin\Debug\150922_CodeEval_LongestWord.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150922_CodeEval_LongestWord\150922_CodeEval_LongestWord\obj\Debug\150922_CodeEval_LongestWord.pdb
